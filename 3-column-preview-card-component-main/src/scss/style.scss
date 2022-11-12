@@ -13,8 +13,8 @@ body {
   font-family: $Family--1;
   display: grid;
   min-height: 100vh;
-  // place-content: center;
-  align-content: center;
+  place-content: center;
+  // align-content: center;
 }
 
 .section {

@@ -11,7 +11,7 @@ body {
   font-family: "Lexend Deca", sans-serif;
   display: grid;
   min-height: 100vh;
-  align-content: center;
+  place-content: center;
 }
 
 .section {
