@@ -1,0 +1,1 @@
+.heroContainer{display:grid;grid-template-columns:8fr 4fr;gap:20px}.heroContainer .bottom{display:grid;grid-template-columns:repeat(2, 1fr);gap:20px;align-items:center}.articleContainer{display:grid;grid-template-columns:repeat(3, 1fr);grid-template:20px}.article{display:grid;grid-template-columns:4fr 8fr;gap:10px}/*# sourceMappingURL=style.css.map */
